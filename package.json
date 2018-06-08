@@ -18,7 +18,8 @@
   "homepage": "https://github.com/ebidel/lighthouse-ci#readme",
   "dependencies": {
     "minimist": "^1.2.0",
-    "node-fetch": "^1.7.3"
+    "node-fetch": "^1.7.3",
+    "parse-git-config": "^2.0.2"
   },
   "devDependencies": {
     "eslint": "^3.18.0",
